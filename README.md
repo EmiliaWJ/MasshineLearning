@@ -1,2 +1,2 @@
-# MasshineLearning
+# MachineLearning
 MiniProject_WineQuality
